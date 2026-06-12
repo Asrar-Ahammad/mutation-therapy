@@ -1,0 +1,5 @@
+Agent.md
+reference.md
+.env*
+node_modules
+test*
